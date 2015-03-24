@@ -1,0 +1,1 @@
+Bitbanged spi interface for interfacing an Arduino to an CC2500. This includes high level control of CC2500 and a bitbanged SPI interface.
